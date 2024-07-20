@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I am a software developer.<br>🌱 Always learning and expanding my skills in Java, Spring Boot, Hibernate, and other technologies.<br>👨‍💻 Passionate about building scalable and efficient software solutions.<br>💬 Ask me about Java, Spring Security, and best practices in exception handling.<br>📫 Reach me via email at [Your Email] or connect with me on LinkedIn [Your LinkedIn URL].<br>🚀 Interested in open source projects and contributing to the developer community.
+🔭 I am a software developer.<br>🌱 Always learning and expanding my skills in Java, Spring Boot, Hibernate, and other technologies.<br>👨‍💻 Passionate about building scalable and efficient software solutions.<br>💬 Ask me about Java, Spring Security, and best practices in exception handling.<br>📫 Reach me via email or connect with me on LinkedIn.<br>🚀 Interested in open source projects and contributing to the developer community.
 
 
 ## 🌐 Socials:
